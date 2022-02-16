@@ -11,6 +11,8 @@ public class Myclass {
 		Myclass myObj = new Myclass();
 		myObj.x = 2000; 
 		System.out.println(myObj.x);
+		
+		System.out.println("just for testing purpose");
  
 	}
 
