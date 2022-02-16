@@ -13,6 +13,7 @@ public class Myclass {
 		System.out.println(myObj.x);
 		
 		System.out.println("just for testing purpose");
+		System.out.println("Good morning");
  
 	}
 
